@@ -1,4 +1,4 @@
 # Amazon-Clone 
-My web app can be seen at: 
+## Web app link
 https://lovely-puffpuff-e2cfc5.netlify.app/
 
